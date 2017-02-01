@@ -1478,11 +1478,10 @@ Primary use:	Online Presence
 	.open-project {
 		font-size: 120px;
 		font-style: normal;
-		font-weight: 700;
+		font-weight: 500;
 		line-height: 110px;
 		margin-left: -3px;
 		font-family: "Montserrat",sans-serif;
-		font-weight: 700;
 		color:#fff;
 		display:inline;
 	}
