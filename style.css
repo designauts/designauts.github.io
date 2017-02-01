@@ -2414,7 +2414,7 @@ Primary use:	Online Presence
 	
 	/* Buttons */	
 	
-	.clapat-button {
+	.dnauts-button {
 		color:#fff;
 		font-family: "Montserrat",sans-serif;
 		font-size: 10px;
@@ -2435,41 +2435,41 @@ Primary use:	Online Presence
 		border-radius:3px;
 	}
 	
-	.clapat-button:hover, .clapat-button:active, .clapat-button:focus {
+	.dnauts-button:hover, .dnauts-button:active, .dnauts-button:focus {
 		background-color:#000;
 		color:#fff;
 	}
 	
-	.clapat-button.outline-button {
+	.dnauts-button.outline-button {
 		color:#000;
 		padding:12px 22px;
 		background-color:transparent;
 		border:#000 2px solid;
 	}
 	
-	.clapat-button.outline-button:hover, .clapat-button.outline-button:active, .clapat-button.outline-button:focus {
+	.dnauts-button.outline-button:hover, .dnauts-button.outline-button:active, .dnauts-button.outline-button:focus {
 		border:#000 2px solid;
 		color:#fff;
 		background-color:#000;
 	}
 	
-	.light-content .clapat-button {
+	.light-content .dnauts-button {
 		color:#000;
 		background-color:rgba(255,255,255,1)
 	}
 	
-	.light-content .clapat-button:hover, .light-content .clapat-button:active, .light-content .clapat-button:focus {
+	.light-content .dnauts-button:hover, .light-content .dnauts-button:active, .light-content .dnauts-button:focus {
 		color:#000;
 		background-color:rgba(255,255,255,0.8)
 	}
 	
-	.light-content .clapat-button.outline-button {
+	.light-content .dnauts-button.outline-button {
 		color:#fff;
 		border:#fff 2px solid;
 		background-color:transparent;
 	}
 	
-	.light-content .clapat-button.outline-button:hover, .light-content .clapat-button.outline-button:active, .light-content .clapat-button.outline-button:focus {
+	.light-content .dnauts-button.outline-button:hover, .light-content .dnauts-button.outline-button:active, .light-content .dnauts-button.outline-button:focus {
 		border:#fff 2px solid;
 		color:#000;
 		background-color:#fff;
@@ -2859,14 +2859,14 @@ Primary use:	Online Presence
 	
 	/* Number Counters */		
 	
-	.clapat-counters {
+	.dnauts-counters {
 		display: table;
 		margin-left: 0;
 		text-align: center;
 		width: 100%;
 	}
 	
-	.clapat-counter {
+	.dnauts-counter {
 		text-align: center;
 		list-style:none;
 		display:inline-block;
@@ -2877,7 +2877,7 @@ Primary use:	Online Presence
 		display:table-cell;
 	}
 	
-	.clapat-counter .number {
+	.dnauts-counter .number {
 		display: block;
 		font-family: "Montserrat",sans-serif;
 		font-size: 48px;
@@ -2887,11 +2887,11 @@ Primary use:	Online Presence
 		color:#000;
 	}
 	
-	.light-content .clapat-counter .number {
+	.light-content .dnauts-counter .number {
 		color:#fff;
 	}
 	
-	.clapat-counter .subject {
+	.dnauts-counter .subject {
 		font-family: "Montserrat",sans-serif;
 		font-size: 10px;
 		font-weight: 400;
@@ -2950,7 +2950,7 @@ Primary use:	Online Presence
 		background-color:#222;
 	}
 	
-	.clapat-slider .flex-direction-nav .flex-next:hover, .classic-slider .flex-direction-nav .flex-next:hover {
+	.dnauts-slider .flex-direction-nav .flex-next:hover, .classic-slider .flex-direction-nav .flex-next:hover {
 		opacity:1;
 	}
 
@@ -3128,7 +3128,7 @@ Primary use:	Online Presence
 		margin-right: 0%;
 	}
 	
-	.clapat-counter {
+	.dnauts-counter {
 		border-right: medium none;
 		display: block;
 		margin-bottom: 30px;
